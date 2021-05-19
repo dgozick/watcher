@@ -16,3 +16,5 @@
 
 # Goreleaser distributable files
 dist/
+
+.idea

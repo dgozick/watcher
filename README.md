@@ -1,6 +1,6 @@
 # watcher
 
-Forked from https://github.com/radovskyb/watcher to pull in updates and modify for personal usage.
+Forked from https://github.com/dideler/watcher to pull in updates and modify for personal usage.
 
 ## Installation
 
